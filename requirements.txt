@@ -1,0 +1,6 @@
+pytesseract
+pillow
+opencv-python
+openai
+python-dotenv
+httpx[socks]
