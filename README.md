@@ -8,6 +8,18 @@ openai-captcha-detection 是一个使用 OpenAI 进行验证码识别的工具�
 - 利用 OpenAI 的 GPT-4 模型进行 OCR（光学字符识别），可以识别各种类型的验证码。
 - 提供简单易用的 API 接口，方便在其他项目中集成使用。
 
+# 如果你对网络安全感兴趣，如下开源代码不容错过：
+ - rust实现的端口扫描器：
+   - https://github.com/XiaomingX/RustProxyHunter
+ - python实现的代理池检测：
+   - https://github.com/XiaomingX/proxy-pool
+ - golang实现的供应链安全，CVE-POC的全自动收集（注无人工审核，可能被投毒，仅限有基础的朋友）：
+   - https://github.com/XiaomingX/data-cve-poc
+ - python实现的检查.git泄漏的工具EXP
+   - https://github.com/XiaomingX/github-sensitive-hack
+ - 基于大模型（OPENAI）的图形验证码破解工具EXP
+   - https://github.com/XiaomingX/openai-captcha-detection 
+
 ## 环境准备
 
 在使用此项目前，请确保已经安装好以下工具：
